@@ -1,0 +1,4 @@
+import webbrowser
+
+coin_name = "Bitcoin"
+webbrowser.open(f"https://www.google.com/search?q={coin_name}")
